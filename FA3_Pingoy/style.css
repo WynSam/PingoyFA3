@@ -1,0 +1,43 @@
+body {
+	background-image: url("CSTHINGY.png");
+	background-size: 125px 125px;
+	background-repeat: no-repeat;
+	background-position: center;	
+}
+
+h1 {
+	text-align: center;
+	border: 2px dotted blue;
+	background-color: #E0A7DA;
+	font-family: "Snell Roundhand", cursive;
+	font-weight: 100;
+	margin-bottom: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 15px;
+	padding-left: 15px;
+	width: 250px;
+}
+
+
+
+p  {
+	text-align: justify;
+	background-color: hsl(196, 100%, 87%);
+	font-style: italic;
+	padding: 20px;
+	border-left: 3px solid;
+	border-top: 3px double;
+	border-bottom: 3px dotted;
+	border-right: 3px dashed;
+	width: 500px;
+}
+
+span {
+	font-weight: bold;
+	font-style: italic;
+	color: rgb(255,255,255);
+	margin-left: 2px;
+	margin-right: 5px;
+
+}
